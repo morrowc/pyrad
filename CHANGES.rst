@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2.3 - Feb 6, 2020
+------------------
+
+* Fixed #124 remove reuse_address=True from async server/client
+
+* Fixed #121 Unknown attribute key error
+
 2.2 - Oct 19, 2019
 ------------------
 
